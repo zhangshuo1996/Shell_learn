@@ -1,0 +1,5 @@
+#!/bin/bash
+echo -n "the time and date is: " 
+date
+echo "let's see who login this system "
+who

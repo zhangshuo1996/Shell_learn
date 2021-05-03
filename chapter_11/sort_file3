@@ -1,0 +1,16 @@
+drwxrwxr-x 2 coke coke   4096 Apr 22 19:39 ./
+drwxrwxr-x 8 coke coke   4096 Apr 22 00:42 ../
+-rw-rw-r-- 1 coke coke      0 Apr 22 19:24 rpm.list
+-rw-rw-r-- 1 coke coke      0 Apr 22 19:39 sort_file3
+-rw-rw-r-- 1 coke coke 112654 Apr 22 01:11 log.210422
+-rw-rw-r-- 1 coke coke     16 Apr 22 19:37 sort_file
+-rw-rw-r-- 1 coke coke     16 Apr 22 19:38 sort_file2
+-rw-rw-r-- 1 coke coke     73 Apr 22 01:19 test6
+-rw-rw-r-- 1 coke coke   9630 Apr 22 19:25 pip.list
+-rwxrwxrwx 1 coke coke     95 Apr 22 00:48 test1*
+-rwxrwxr-x 1 coke coke    127 Apr 22 00:57 test3*
+-rwxrwxr-x 1 coke coke     63 Apr 22 01:11 test5_1*
+-rwxrwxr-x 1 coke coke     64 Apr 22 01:02 test5*
+-rwxrwxr-x 1 coke coke     73 Apr 22 00:58 test4*
+-rwxrwxr-x 1 coke coke     83 Apr 22 00:51 test2*
+total 168
