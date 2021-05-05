@@ -1,0 +1,6 @@
+coke     tty7         2021-04-30 21:12 (:0)
+total 16
+drwxrwxr-x  2 coke coke 4096 May  3 23:40 ./
+drwxrwxr-x 13 coke coke 4096 May  3 23:36 ../
+-rw-rw-r--  1 coke coke   71 May  3 23:40 testfile
+-rw-rw-r--  1 coke coke   44 May  3 23:41 testfile2
